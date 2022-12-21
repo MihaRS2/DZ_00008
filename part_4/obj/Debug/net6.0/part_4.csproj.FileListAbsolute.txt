@@ -1,0 +1,15 @@
+/home/misha/Desktop/Dz_programs_008/part_4/bin/Debug/net6.0/part_4
+/home/misha/Desktop/Dz_programs_008/part_4/bin/Debug/net6.0/part_4.deps.json
+/home/misha/Desktop/Dz_programs_008/part_4/bin/Debug/net6.0/part_4.runtimeconfig.json
+/home/misha/Desktop/Dz_programs_008/part_4/bin/Debug/net6.0/part_4.dll
+/home/misha/Desktop/Dz_programs_008/part_4/bin/Debug/net6.0/part_4.pdb
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/part_4.csproj.AssemblyReference.cache
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/part_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/part_4.AssemblyInfoInputs.cache
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/part_4.AssemblyInfo.cs
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/part_4.csproj.CoreCompileInputs.cache
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/part_4.dll
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/refint/part_4.dll
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/part_4.pdb
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/part_4.genruntimeconfig.cache
+/home/misha/Desktop/Dz_programs_008/part_4/obj/Debug/net6.0/ref/part_4.dll
